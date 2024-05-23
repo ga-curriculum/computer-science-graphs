@@ -1,4 +1,4 @@
-# ![Computer Science - Graphs](./assets/hero.png)
+# ![Computer Science - Graphs](../assets/hero.png)
 
 ## Overview
 
