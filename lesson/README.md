@@ -1,4 +1,4 @@
-# ![Computer Science - Graphs - tktk Microlesson Name](./assets/hero.png)
+# ![Computer Science - Graphs - Lesson](./assets/hero.png)
 
 Graphs are your favorite data structure that you (maybe) didn’t even know about. They power social media, maps, and more! In this lesson, we’ll learn the basics of the graph data structure and how they’re implemented.
 
