@@ -23,7 +23,7 @@ By the end of this module, learners will be able to:
 There are two components to this module:
 
 1. Lesson: [Graphs](./lesson/README.md)
-2. Exercise: [Implementing a Graph](https://git.generalassemb.ly/modular-curriculum-all-courses/graphs-starter-code)
+2. Exercise: [Implementing a Graph](https://github.com/ga-curriculum/graphs-starter-code)
 
 ## Solution Code 
 
